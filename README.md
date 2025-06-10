@@ -17,7 +17,7 @@ A simple Spring Boot application that tracks payments in different currencies an
 
 ## Getting Started
 
-1. Clone the repository:
+1. Clone the repository using this URL: https://github.com/kaushiksp159/spring-boot-payment-tracker.git
 2. Navigate to the project directory:
    cd spring-boot-payment-tracker
 3. Build the project:
