@@ -11,7 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>spring-boot-payment-tracker</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>PaymentTrackerApplication</name>
+    <name>SpringBootPaymentTrackerApplication</name>
     <description>Spring Boot Payment Tracker Service</description>
 
     <properties>
